@@ -93,4 +93,4 @@ async def on_ready():
     print(f"Logado como {client.user.name}") 
     await client.change_presence(activity=discord.Game(name='.help'))
 
-client.run('MTE5MzMwNjIxMzkzMzM4Mzc0MA.GexsUD.1pfY0DGI7CZ4xpAvMFdrco8KuMjKI-4khuK-AM')
+client.run('')
